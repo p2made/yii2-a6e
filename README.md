@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.0.4
+Yii 2 Advanced 6 Ends v0.0.5
 =====================
 
 Additions for giving Yii2 `API`, `assets`, `members`, & `midend` application ends.
@@ -17,13 +17,13 @@ First create a new Yii2 Advanced project by running...
 Run *one* of the following commands:
 
 ```
-	composer require p2made/yii2-a6e "^0.0"
+composer require p2made/yii2-a6e "^0.0"
 ```
 
 or
 
 ```
-	php composer.phar require p2made/yii2-a6e "^0.0"
+php composer.phar require p2made/yii2-a6e "^0.0"
 ```
 
 *or* add:
@@ -37,14 +37,17 @@ to the requires section of your `composer.json` & run `composer update`.
 Next run...
 
 ```
-	cp -r ./vendor/p2made/yii2-a6e/api ./
-	cp -r ./vendor/p2made/yii2-a6e/assets ./
-	cp -r ./vendor/p2made/yii2-a6e/members ./
-	cp -r ./vendor/p2made/yii2-a6e/midend ./
-	cp -r ./vendor/p2made/yii2-a6e/environments ./
+cp -r ./vendor/p2made/yii2-a6e/api ./
+cp -r ./vendor/p2made/yii2-a6e/assets ./
+cp -r ./vendor/p2made/yii2-a6e/members ./
+cp -r ./vendor/p2made/yii2-a6e/midend ./
+cp -r ./vendor/p2made/yii2-a6e/common/* ./common/
+cp -r ./vendor/p2made/yii2-a6e/backend/* ./backend/
+cp -r ./vendor/p2made/yii2-a6e/frontend/* ./frontend/
+cp -r ./vendor/p2made/yii2-a6e/environments/* ./environments/
 ```
 
-The  `environments` will replace the original.
+The items copied from `common`, `backend`, `frontend`, & `environments` will replace the originals.
 
 Now run `./init` as usual.
 
