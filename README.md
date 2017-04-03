@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.0.9
+Yii 2 Advanced 6 Ends v0.0.10
 =====================
 
 Additions for giving Yii2 `API`, `assets`, `members`, & `midend` application ends.
@@ -43,5 +43,6 @@ cp -r ./vendor/p2made/yii2-a6e/environments/* ./environments/
 The `environments` folder will be replaced.
 
 Now run `./init` as usual.
+Select `All` when prompted about replacing files.
 
 
