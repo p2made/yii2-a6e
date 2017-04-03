@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.0.2
+Yii 2 Advanced 6 Ends v0.0.3
 =====================
 
 Additions for giving Yii2 `API`, `assets`, `members`, & `midend` application ends.
@@ -37,11 +37,11 @@ to the requires section of your `composer.json` & run `composer update`.
 Next run...
 
 ```
-	cp -r ./vendor/p2made/api
-	cp -r ./vendor/p2made/assets
-	cp -r ./vendor/p2made/members
-	cp -r ./vendor/p2made/midend
-	cp -r ./vendor/p2made/environments
+	cp -r ./vendor/p2made/yii2-a4e/api ./
+	cp -r ./vendor/p2made/yii2-a4e/assets ./
+	cp -r ./vendor/p2made/yii2-a4e/members ./
+	cp -r ./vendor/p2made/yii2-a4e/midend ./
+	cp -r ./vendor/p2made/yii2-a4e/environments ./
 ```
 
 The  `environments` will replace the original.
