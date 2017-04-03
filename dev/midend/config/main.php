@@ -26,8 +26,8 @@ return [
 			'name' => 'advanced-midend',
 		],
 		'assetManager' => [
-			'basePath' => '@assets/web/pub',
-			'baseUrl' => '@assetsUrl/pub',
+			'basePath' => '@assets/web/midend/pub',
+			'baseUrl' => '@assetsUrl/midend/pub',
 		],
 		'log' => [
 			'traceLevel' => YII_DEBUG ? 3 : 0,

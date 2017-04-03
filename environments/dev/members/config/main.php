@@ -26,8 +26,8 @@ return [
 			'name' => 'advanced-members',
 		],
 		'assetManager' => [
-			'basePath' => '@assets/web/pub',
-			'baseUrl' => '@assetsUrl/pub',
+			'basePath' => '@assets/web/members/pub',
+			'baseUrl' => '@assetsUrl/members/pub',
 		],
 		'log' => [
 			'traceLevel' => YII_DEBUG ? 3 : 0,

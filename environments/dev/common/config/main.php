@@ -25,8 +25,6 @@ return [
 		],
 		*/
 		'assetManager' => [
-			//'basePath' => '@assets/web/pub',
-			//'baseUrl' => '@assetsUrl/pub',
 			//'appendTimestamp' => true, // useful while developing custom assets
 			'bundles' => [
 				'yii\web\JqueryAsset' => [
