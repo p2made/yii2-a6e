@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.0.12
+Yii 2 Advanced 6 Ends v0.0.15
 =====================
 
 Additions for giving Yii2 `API`, `assets`, `members`, & `midend` application ends.
