@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.0.18
+Yii 2 Advanced 6 Ends v0.1.0
 =====================
 
 Installation
