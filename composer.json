@@ -27,7 +27,6 @@
 		"yiisoft/yii2-swiftmailer": "^2.0",
 
 		"p2made/yii2-p2y2-things": "dev-v3-refactor",
-		"p2made/yii2-p2y2-things-demo": "dev-v3-refactor",
 		"p2made/yii2-startbootstrap-themes": "dev-2.16.3-beta",
 		"p2made/yii2-sb-admin-theme": "dev-2.5.2-beta"
 	}
