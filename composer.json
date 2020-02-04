@@ -17,17 +17,17 @@
 		"source": "https://github.com/p2made/yii2-a6e"
 	},
 
-	"version": "0.1.1",
+	"version": "4.0.0-alpha",
 	"minimum-stability": "dev",
 	"prefer-stable" : true,
 
 	"require": {
-		"php": ">=5.4.0",
-		"yiisoft/yii2": "^2.0",
-		"yiisoft/yii2-swiftmailer": "^2.0",
-		"p2made/yii2-p2y2-things": "^2.8",
-		"p2made/yii2-p2y2-things-demo": "^2.8",
-		"p2made/yii2-startbootstrap-themes": "^2.16",
-		"p2made/yii2-sb-admin-theme": "^2.5"
+		"php": ">=5.6.0",
+		"yiisoft/yii2": "~2.0.14",
+		"yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
+		"p2made/yii2-p2y2-things": "~4.0",
+		"p2made/yii2-p2y2-things-demo": "~4.0",
+		"p2made/yii2-startbootstrap-themes": "~4.0",
+		"p2made/yii2-sb-admin-theme": "~4.0"
 	}
 }

@@ -1,4 +1,4 @@
-Yii 2 Advanced 6 Ends v0.1.1
+Yii 2 Advanced 6 Ends v4.0.0-alpha
 =====================
 
 [![License](https://poser.pugx.org/p2made/yii2-a6e/license)](https://packagist.org/packages/p2made/yii2-p2y2-things-demo)
@@ -23,19 +23,19 @@ composer create-project --prefer-dist yiisoft/yii2-app-advanced yii-application
 Depending on your Composer setup, run *one* of the following commands:
 
 ```
-composer require p2made/yii2-a6e "^0.1"
+composer require p2made/yii2-a6e "~4.0"
 ```
 
 or
 
 ```
-php composer.phar require p2made/yii2-a6e "^0.1"
+php composer.phar require p2made/yii2-a6e "~4.0"
 ```
 
 *or* add:
 
 ```
-	"p2made/yii2-a6e": "^0.1"
+	"p2made/yii2-a6e": "~4.0"
 ```
 
 to the requires section of your `composer.json` & run `composer update`.
