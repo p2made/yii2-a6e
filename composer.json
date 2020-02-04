@@ -22,10 +22,11 @@
 	"prefer-stable" : true,
 
 	"require": {
-		"php": ">=5.4.0",
+		"php": ">=5.6.0",
 		"yiisoft/yii2": "~2.0.14",
 		"yiisoft/yii2-swiftmailer": "~2.0.0 || ~2.1.0",
-		"p2made/yii2-p2y2-things": "dev-v3-refactor",
+		"p2made/yii2-p2y2-things": "~4.0",
+		"p2made/yii2-p2y2-things-demo": "~4.0",
 		"p2made/yii2-startbootstrap-themes": "dev-2.16.3-beta",
 		"p2made/yii2-sb-admin-theme": "dev-2.5.2-beta"
 	}
